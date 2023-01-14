@@ -2,6 +2,8 @@
 
 ![](https://github.com/rifleben/Flask_Guessing_Numbers_Game/blob/main/Flask_game_gif.gif)
 
+Learning by doing...! First time working with Flask and learning a bit about the webDev side of Python.
+
 This is a simple number guessing game built using Flask, a micro web framework for Python. The game generates a random integer between 0 and 9, and the user is prompted to guess the number by visiting the / endpoint of the server.
 
 The / route returns a friendly greeting to start the game, along with an image to entertain the user.
